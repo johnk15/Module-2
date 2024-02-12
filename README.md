@@ -37,5 +37,5 @@ The contracts are organized in the following hierarchy:
    - `claimCollateralInsurance`: Claim the insurance payout based on collateral value.
    - `getDetails`: Get details about the insurance contract.
 
-### Author:
+### Author: Arunay Sharma
 
